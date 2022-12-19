@@ -1,0 +1,6 @@
+D:\for_programm\CS_HW11_FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+D:\for_programm\CS_HW11_FileSystem\FileSystem\bin\Debug\FileSystem.exe
+D:\for_programm\CS_HW11_FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+D:\for_programm\CS_HW11_FileSystem\FileSystem\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\for_programm\CS_HW11_FileSystem\FileSystem\obj\Debug\FileSystem.exe
+D:\for_programm\CS_HW11_FileSystem\FileSystem\obj\Debug\FileSystem.pdb
