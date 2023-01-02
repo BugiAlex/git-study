@@ -1,3 +1,6 @@
 some content
+<<<<<<< HEAD
 and here!
 111111
+=======
+>>>>>>> 2c928c4cd88e2bfba9d11b848cbe0088fe36c1a0
